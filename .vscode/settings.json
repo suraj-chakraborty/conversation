@@ -1,0 +1,6 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "markdown.preview.doubleClickToSwitchToEditor": false,
+    "debug.javascript.suggestPrettyPrinting": false
+}
